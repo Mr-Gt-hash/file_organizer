@@ -1,0 +1,9 @@
+{
+  "categories": {
+    "images": ["jpg", "jpeg", "png", "gif", "webp"],
+    "documents": ["pdf", "docx", "txt", "md"],
+    "data": ["csv", "json", "xlsx"],
+    "archives": ["zip", "tar", "gz"]
+  },
+  "fallback_category": "misc"
+}
