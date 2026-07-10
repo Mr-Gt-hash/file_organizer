@@ -1,0 +1,6 @@
+# Runtime: none — file_organizer uses only the Python standard library.
+#
+# Development / testing dependencies:
+pytest>=7.0
+pytest-cov>=4.0
+mypy>=1.0
